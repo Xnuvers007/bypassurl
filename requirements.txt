@@ -1,0 +1,3 @@
+cloudscraper
+requests
+Html2Image
