@@ -41,7 +41,7 @@ aplikasi tools ini dibuat dengan menggunakan python 3.11
 - 3. Download Anime (Kusonime)
 
 <img src="./example/3.png" alt="Download Anime" height="58%" width="92%" />
-<img src="./example/4.png" alt="Download Anime" height="58%" width="92%" />
+<img src="./example/4.PNG" alt="Download Anime" height="58%" width="92%" />
 
 - 4. Cek Redirect (Bypass Adfly)
 
